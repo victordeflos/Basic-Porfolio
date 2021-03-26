@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "vscode.emmet",
+    "prettier.jsxSingleQuote": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.insertPragma": true,
+    "prettier.endOfLine": "auto"
+}
